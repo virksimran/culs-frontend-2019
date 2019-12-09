@@ -8,6 +8,8 @@ Josef Pospíšil
 
 Elene Vadatchkoria
 
+Simran Virk
+
 [Content repository](https://github.com/pepe/our-awesome-portfolio)
 
 ---
